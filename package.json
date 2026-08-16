@@ -1,0 +1,30 @@
+{
+  "name": "url-shortener-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vimansa-Siyasing/url-shortener-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vimansa-Siyasing/url-shortener-app/issues"
+  },
+  "homepage": "https://github.com/Vimansa-Siyasing/url-shortener-app#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.2",
+    "nanoid": "^3.3.18"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
