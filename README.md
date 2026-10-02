@@ -11,7 +11,7 @@ A full-stack URL shortener. Paste a long URL, get a short link, and every visit 
 - React frontend served directly by the Express backend
 
 ## Screenshots
-![Uploading url-shortener-image.png…]()
+
 
 
 ## Tech Stack
